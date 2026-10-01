@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/drawable_ic_favorite.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/drawable_ic_home.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/drawable_ic_info.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/layout_item_pokemon.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/layout_fragment_home.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/layout_fragment_favorites.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.pokenavigation.app-debug-32:/layout_fragment_info.xml.flat",
+        "source": "com.example.pokenavigation.app-main-34:/layout/fragment_info.xml"
+    }
+]
